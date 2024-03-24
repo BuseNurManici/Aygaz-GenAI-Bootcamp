@@ -1,2 +1,46 @@
 # Aygaz-GenAI-Bootcamp
 Portfolio / Galeri Web Sitesi  
+Prompt 1 
+
+Bir portfolio galeri sitesi tasarlanmak isteniyor. Bu site HTML tabanlı bir web sitesidir ve HTML, CSS çıktılarını ayrı olarak verilmesi beklenmektedir. Bu sitede farklı şehirlerin manzara fotoğrafları yayınlanmak istenmektedir. Web sitesinde bulunmasını istenen etiketler (header, main, nav, section, article, aside, footer) şeklindedir. Sayfanın header bölümünde bir logo olması isteniyor. Sayfanın galeri bölümünde her bir ızgarada  300x300 boyutlarında  3 adet resim olmasını isteniyor. Logo boyutu ise 400x400 boyutlarında olmalıdır. Bu gerekliliklere sahip web sitesini tasarlayabilir misin? 
+
+ Prompt 2 
+Bu web sitesinin arka planına da bir resim eklemek istenmektedir. Ayrıca her bir resmin altına açıklama eklemek istenmektedir.
+
+Prompt 3 
+
+Ayrıca her bir resmin altına açıklama eklenmek istenmektedir. Ayrıca yazı rengi beyaz stilinin ise Calibri Light olması beklenmektedir. Bu düzenlemeleri yapabilir misin?
+
+Prompt 4 
+
+Bu websitesinde açıklamaların kalın bir çerçeve içine alınarak daha görünür olmasını istiyorum bunu yapabilir misin? 
+
+Prompt 5 
+
+Daha görünür bir yazı stili ile değiştirebilir misin? 
+
+Prompt 6 
+Bu siteye hakkımızda kısmı eklemek istiyorum yapabilir misin?  
+
+Görseller için kullandığım yapay zeka araçları leonardo.ai ve runyway'dir. Promptlar aşağıdadır. 
+
+Prompt 1
+
+A sunny day in ıstanbul 
+
+Prompt 2 
+
+a girl is sitting on the somewhere but very high place and Tokyo tower is behind her. She has blonde hair and she is beautiful.  
+
+Prompt 3 
+
+there is a boy in front of The Tower of Pisa  
+
+Prompt 4 
+
+create a wallpaper abput different city viewes from all over the world but this photo should inclued soft colours.
+
+ 
+ 
+
+
